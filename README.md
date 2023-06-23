@@ -4,6 +4,7 @@ The goal of this tutorial is to fine-tune LM with RLHF in single 24GB GPU.
 
 ## Requirements
 * python>=3.9  # >=3.7 might work but haven't been tested
+* torch==1.13.1
 * `pip install -r req.txt`
 * 24GB GPU   # tested in 3090
 
