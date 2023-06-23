@@ -1,6 +1,7 @@
+transformers @ git+https://github.com/huggingface/transformers.git@cae78c46d658a8e496a815c2ee49b9b178fb9c9a
 peft==0.2.0
 trl==0.4.4
+accelerate==0.19.0
+bitsandbyte==0.37.2
 wandb
 scipy
-accelerate
-bitsandbyte
